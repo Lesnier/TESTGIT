@@ -1,0 +1,3 @@
+<?php>
+echo "Transferencia exitosa";
+echo ""TRansferencia  erronea";
