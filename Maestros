@@ -1,3 +1,4 @@
 <?php>
 echo "Transferencia exitosa";
 echo ""TRansferencia  erronea";
+echo "Nuevas regls estudiantiles";
