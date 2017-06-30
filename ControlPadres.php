@@ -1,4 +1,5 @@
 <?php
-$sd =0;
-echo "Final sdsdf".$sd ;
-echo "CAmue esta en este archi";
+$sel="quietud interrumpida"
+$sd =1;
+echo $final;
+echo "Lesnier Gonzalerz";
